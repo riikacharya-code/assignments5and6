@@ -46,13 +46,6 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Pods-Parstagram-ParstagramUITests.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-			<key>orderHint</key>
-			<integer>7</integer>
-		</dict>
 		<key>Pods-Parstagram.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -61,6 +54,13 @@
 			<integer>6</integer>
 		</dict>
 		<key>Pods-ParstagramTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Pods-ParstagramUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
