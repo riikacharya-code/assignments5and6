@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Simulator Screen Recording - iPhone 13 Pro Max - 2022-03-27 at 00.39.11.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/riikacharya-code/assignments5and6/blob/main/Parstagram/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-03-27%20at%2000.39.11.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
